@@ -20,8 +20,10 @@ This repository documents a simple DIY microscope project I created in 9th grade
 - Creative use of household components for scientific experiments
 
 ## 📸 Gallery
--Basic setup image
+- setup
 ![image](https://github.com/user-attachments/assets/7ca0d43b-51ef-4958-b784-8be5e2557d49)
+
+
 - Result 
 ![image](https://github.com/user-attachments/assets/f7f98da6-8329-488c-ae48-8f368a000603)
 
