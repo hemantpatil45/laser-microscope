@@ -20,7 +20,7 @@ This repository documents a simple DIY microscope project I created in 9th grade
 - Creative use of household components for scientific experiments
 
 ## 📸 Gallery
-[Insert images or videos of setup and captured microscope images]
+[Insert images or videos of setup and captured microscope images]( www.linkedin.com/in/hemantmpatil0103)
 
 ## 📄 Future Ideas
 - Replace laser with LED for safer illumination
