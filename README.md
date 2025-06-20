@@ -36,4 +36,4 @@ Feel free to reach out if you want to recreate this or collaborate on DIY scienc
 
 ## Connect
 Created by Hemant Maruti Patil  
-[LinkedIn Profile ]( www.linkedin.com/in/hemantmpatil0103 )  
+[LinkedIn Profile ]   ( www.linkedin.com/in/hemantmpatil0103 )  
